@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
-int tong(int a, int b);
+int tong(int a, int b) {
+	//Phep toan Cong--User1
+	return a+b;
+};
 int hieu(int a, int b);
-
 int main()
 {
 	int a, b;
