@@ -8,6 +8,10 @@ int hieu(int a, int b) {
 	return a-b;
 };
 // Da xoa tinh tong cua user2
+// tach thanh nhanh tich by:user1
+int tich(int a, int b) {
+	return a*b;
+}
 int main()
 {
 	int a, b;
