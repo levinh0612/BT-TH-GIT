@@ -12,6 +12,15 @@ int hieu(int a, int b) {
 int tich(int a, int b) {
 	return a*b;
 }
+//Ktra chan le by: User2
+void kiemTraChanLe(int n) {
+	if(n%2==0) {
+		cout << n <<"la so chan";
+	} else {
+		cout <<n <<"la so le ";
+	}
+}
+//end Chan le
 int main()
 {
 	int a, b;
