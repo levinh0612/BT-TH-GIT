@@ -7,9 +7,7 @@ int tong(int a, int b) {
 int hieu(int a, int b) {
 	return a-b;
 };
-int tich(int a, int b) {
-	return a*b;
-}
+// Da xoa tinh tong cua user2
 int main()
 {
 	int a, b;
